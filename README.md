@@ -1,5 +1,24 @@
-# 💫 About Me:
-## Hi, I´m Saul 👋<br><br>Here is a bit more about me:<br><br>- 🔭 I’m currently working on mobile apps and management software for local businesses.<br>- 🌱 I’m learning more about Android development with Kotlin and modern UI/UX tools.<br>- 👯 I’m looking to collaborate on social impact, education, or accessible tech projects.<br>- 🤔 I’m looking to improve my skills in software architecture and cross-platform development.<br>- 💬 Ask me about web development, databases, Arduino, or how to start a project from scratch.<br>- 📫 How to reach me: saul.valenzuela.dev@gmail.com<br>- ⚡ Fun fact: Before studying Information Systems, I started to programvideogames 😄<br><br><br><br>-------------------------------<br>## Hola, soy Saúl 👋<br><br>Aquí hay un poco más sobre mí:<br><br>- 🔭 Actualmente estoy trabajando en aplicaciones móviles y software de gestión para negocios locales.<br>- 🌱 Estoy aprendiendo más sobre desarrollo Android con Kotlin y herramientas modernas de UI/UX.<br>- 👯 Me interesa colaborar en proyectos de impacto social, educación o tecnología accesible.<br>- 🤔 Busco mejorar mis habilidades en arquitectura de software y desarrollo multiplataforma.<br>- 💬 Pregúntame sobre desarrollo web, bases de datos, Arduino o cómo empezar un proyecto desde cero.<br>- 📫 Puedes contactarme en: saul.valenzuela.dev@gmail.com<br>- ⚡ Dato curioso: Empecé programando videojuegos antes de estudiar Ingeniería en Sistemas 😄<br>
+## About Me:
+
+### Hi, I´m Saul 👋<br><br>
+Here is a bit more about me:<br><br>
+- 🔭 I’m currently working on mobile apps and management software for local businesses.<br>
+- 🌱 I’m learning more about Android development with Kotlin and modern UI/UX tools.<br>
+- 👯 I’m looking to collaborate on social impact, education, or accessible tech projects.<br>
+- 🤔 I’m looking to improve my skills in software architecture and cross-platform development.<br>
+- 💬 Ask me about web development, databases, Arduino, or how to start a project from scratch.<br>
+- 📫 How to reach me: saul.valenzuela.dev@gmail.com<br>
+- ⚡ Fun fact: Before studying Information Systems, I started to programvideogames 😄<br><br>
+### Hola, soy Saúl 👋<br><br>
+Aquí hay un poco más sobre mí:<br><br>
+- 🔭 Actualmente estoy trabajando en aplicaciones móviles y software de gestión para negocios locales.<br>
+- 🌱 Estoy aprendiendo más sobre desarrollo Android con Kotlin y herramientas modernas de UI/UX.<br>
+- 👯 Me interesa colaborar en proyectos de impacto social, educación o tecnología accesible.<br>
+- 🤔 Busco mejorar mis habilidades en arquitectura de software y desarrollo multiplataforma.<br>
+- 💬 Pregúntame sobre desarrollo web, bases de datos, Arduino o cómo empezar un proyecto desde cero.<br>
+- 📫 Puedes contactarme en: saul.valenzuela.dev@gmail.com<br>
+- ⚡ Dato curioso: Empecé programando videojuegos antes de estudiar Ingeniería en Sistemas 😄<br><br>
+
 
 
 ## 🌐 Socials:
